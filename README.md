@@ -1,2 +1,3 @@
-# aarhus
-Statistical Learning with Python (Aarhus Summer School)
+# Statistical Learning with Python 
+(Aarhus Summer School)
+
